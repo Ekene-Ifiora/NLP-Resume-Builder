@@ -281,10 +281,12 @@ To run this application, follow these steps:
 
 ### Build Resume Interface
 
-![Placeholder for Build Resume GIF](path_to_build_resume_interface_screenshot.gif)
+![Placeholder for Build Resume GIF](<img width="1680" alt="image" src="https://github.com/user-attachments/assets/4c63db1e-05c4-4651-b73e-20dd1d4801b4">
+)
 
 ### Analyze Resume Interface
 
-![Placeholder for Analyze Resume GIF](path_to_analyze_resume_interface_screenshot.gif)
+![Placeholder for Analyze Resume GIF](<img width="1680" alt="image" src="https://github.com/user-attachments/assets/684c361c-f08a-4f99-996b-b7aee3d285d3">
+)
 
 ---
