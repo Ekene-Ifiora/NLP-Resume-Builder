@@ -68,7 +68,7 @@ This application provides an interactive platform for users to either build a ne
 
 ### Build Resume
 
-![Placeholder for Build Resume GIF]()
+![NLP1](https://github.com/user-attachments/assets/6fd4c440-1e19-4681-aa28-cbf52da4561a)
 
 - **Customizable Layout**: Choose between different layouts for the drag-and-drop interface.
 
@@ -80,7 +80,7 @@ This application provides an interactive platform for users to either build a ne
 
 ### Analyze Resume
 
-![Placeholder for Analyze Resume GIF](path_to_analyze_resume.gif)
+![NLP2](https://github.com/user-attachments/assets/a1c4aadf-6c9d-48a1-9ed2-06c7906bf769)
 
 - **File Upload**: Upload resumes in PDF or DOCX formats.
 
